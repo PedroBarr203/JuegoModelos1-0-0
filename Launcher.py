@@ -13,6 +13,7 @@ import Game
 
 def main():
     '''aqui iria el codigo de mancera, si tuviera uno!!! D:<'''
+    '''----Este código fue tomado sin el consentimiento del usuario...--- >:c'''
     print("Digite uno de las siguientes clases:")
     print(" Mago \n Caballero \n Orco \n Aldeano \n Troll")
     Game.main(SELECT_PLAYER = input())
